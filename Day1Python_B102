@@ -1,0 +1,199 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "344c3c53-b28a-4590-9ec0-02a10e340277",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hello all welcome to the python programming worl\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Hello all welcome to the python programming worl\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "19d8bf10-a6b7-4047-840e-ac8e3376962c",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "hello world!\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"hello world!\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2eea43b4-cd4f-4f2b-9599-8e11bfe6b45d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "shift + Enter to "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "988d6d3e-a8c1-4637-a997-c4a8ea06c3fc",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "92bc8792-dc2d-48c3-afa9-0cb1a327ab1a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fc16d82e-ecf1-4a6e-9524-4a97e562f1ab",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5dac15e0-7853-4949-8ec2-377121b90bb9",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0d10a9c3-7537-4012-af51-deed5f6f2e8a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b524a38f-9736-458a-9833-17b9dfacfdeb",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e77753a9-2a46-4a3f-a898-9ad5b1e67873",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "95be6181-6ee7-4a26-91e1-14a0ecbd7156",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "052f15ef-5b08-446a-9ba5-106db19d2315",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "84444c34-29fc-4068-b07a-1e6e60452a15",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "99d2cf52-a26a-47cf-a5f8-a4d66a34557e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "dc8cf638-1948-4917-a93d-9d1f397f9f6d",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e36a44c4-ead0-4d49-8016-754b59939983",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1262eed1-5472-4187-b3cb-a8851d4dfdc1",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "bf187651-fafa-41f9-b8ec-e06d15695cc8",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e9619813-0975-4393-ac5f-0bc7435f3583",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
